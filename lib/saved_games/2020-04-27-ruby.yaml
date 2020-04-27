@@ -1,0 +1,12 @@
+--- !ruby/object:Game
+player: !ruby/object:Player
+  name: ruby
+  guess_count: 2
+  guesses:
+  - i
+  - o
+board: !ruby/object:Board
+  secret: remaining
+  count: 8
+  word: "----i----"
+codeword: rema-ning

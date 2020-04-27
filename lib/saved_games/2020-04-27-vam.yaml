@@ -1,0 +1,12 @@
+--- !ruby/object:Game
+player: !ruby/object:Player
+  name: vam
+  guess_count: 2
+  guesses:
+  - j
+  - i
+board: !ruby/object:Board
+  secret: cumbrian
+  count: 7
+  word: "-----i--"
+codeword: cumbr-an
